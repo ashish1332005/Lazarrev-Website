@@ -2,7 +2,6 @@
 
 # 🌐 **Lazarrev Website**
 
-![Website Preview](path/to/your/screenshot.png)
 
 ## 📌 **Project Description**
 Welcome to the **Lazarrev Website** project! This repository contains the source code for a **modern, responsive** website built using **HTML, CSS, and JavaScript**. Designed with the latest web trends, this project ensures an **engaging and user-friendly experience** for visitors.
